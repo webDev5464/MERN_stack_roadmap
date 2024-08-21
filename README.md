@@ -1,5 +1,4 @@
-
-Front-End Development
+# Front-End Development
 
 Basic Level:
 - HTML: Elements, Attributes
@@ -11,7 +10,7 @@ Includes a design project for hands-on experience.
 
 ---
 
-Framework and Library:
+## Framework and Library:
 
 React.js:
 - Components, Hooks
@@ -26,7 +25,7 @@ Includes a logical project with backend handling for comprehensive learning.
 
 ---
 
-Back-End Development
+# Back-End Development
 
 Express.js:
 - Server Listening, Database Connection
@@ -45,7 +44,7 @@ Includes a fully-authenticated project for practical application.
 
 ---
 
-Full Stack Development (MERN)
+# Full Stack Development (MERN)
 
 Bonus Skills:
 - Terminal: Command Line Basics
